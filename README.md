@@ -1,4 +1,4 @@
-fooish
+foolish
 ======
 
 Foo
